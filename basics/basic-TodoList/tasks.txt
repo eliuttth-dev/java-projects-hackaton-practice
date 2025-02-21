@@ -1,0 +1,2 @@
+Go to shopping - Look up for milk,true
+Go to gym,false
